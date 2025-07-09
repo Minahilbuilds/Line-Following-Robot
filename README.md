@@ -1,1 +1,2 @@
 # Line-Following-Robot
+This repository contains a Line Following and Obstacle Avoiding Robot project developed using an Arduino UNO, IR sensors, ultrasonic sensors, and DC motors. The robot operates in two modes: line-following mode when the button is pressed, and obstacle-avoiding mode when it's released. It utilizes sensor input to control motor directions via a motor driver, enabling autonomous navigation. The project showcases core concepts in embedded systems, robotics, and real-time control using C++ and Arduino.
